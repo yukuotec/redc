@@ -12,7 +12,8 @@
     "year_built": 2008,
     "transportation": "Metro Line 1 - Caobao Road Station (500m)",
     "property_type": "apartment",
-    "last_updated": "2026-02-04"
+    "last_updated": "2026-02-04",
+    "data_source": "SAMPLE (FAKE)"
   },
   {
     "community": "Hengshan Garden",
@@ -27,7 +28,8 @@
     "year_built": 2015,
     "transportation": "Metro Line 1 - Hengshan Road Station (300m)",
     "property_type": "apartment",
-    "last_updated": "2026-02-04"
+    "last_updated": "2026-02-04",
+    "data_source": "SAMPLE (FAKE)"
   },
   {
     "community": "Jinjiang Community",
@@ -42,6 +44,7 @@
     "year_built": 2005,
     "transportation": "Metro Line 4 - Caoxi Road Station (400m)",
     "property_type": "apartment",
-    "last_updated": "2026-02-04"
+    "last_updated": "2026-02-04",
+    "data_source": "SAMPLE (FAKE)"
   }
 ]
