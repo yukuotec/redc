@@ -11,6 +11,10 @@ A focused real estate data collection tool for Shanghai Xuhui District.
 - even this is the MVP, you should use real scraped data, not local fake data
 - for testing you can fake data, but show it explicitly that is fake data
 
+## Package Mangement 
+
+Use uv.
+
 ## Usage
 
 The tool generates real estate data for specific communities in Shanghai Xuhui District.
