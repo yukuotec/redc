@@ -8,6 +8,8 @@ A focused real estate data collection tool for Shanghai Xuhui District.
 - Data collection for Shanghai Xuhui District
 - CSV and JSON export capabilities
 - Property information including price, size, location, and transportation access
+- even this is the MVP, you should use real scraped data, not local fake data
+- for testing you can fake data, but show it explicitly that is fake data
 
 ## Usage
 

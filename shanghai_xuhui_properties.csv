@@ -1,0 +1,4 @@
+﻿community,address,price,unit,bedrooms,bathrooms,size_sqm,floor,orientation,year_built,transportation,property_type,last_updated
+Tianlin Community,"Tianlin Road 123, Xuhui District, Shanghai",8500,monthly_rent,2,1,75,8/18,south,2008,Metro Line 1 - Caobao Road Station (500m),apartment,2026-02-04
+Hengshan Garden,"Hengshan Road 45, Xuhui District, Shanghai",15000,monthly_rent,3,2,120,12/20,southwest,2015,Metro Line 1 - Hengshan Road Station (300m),apartment,2026-02-04
+Jinjiang Community,"Caoxi Road 67, Xuhui District, Shanghai",7200,monthly_rent,1,1,50,5/6,east,2005,Metro Line 4 - Caoxi Road Station (400m),apartment,2026-02-04
